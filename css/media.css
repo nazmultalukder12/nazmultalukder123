@@ -1,0 +1,302 @@
+
+@media(max-width:1024px){
+
+    .text-alin{
+
+        margin-left: 50px;
+    }
+
+    .price-tables p{
+
+        padding: 10px 6px;
+    } 
+    
+
+}
+
+@media(max-width:920px){
+
+    .hphone {
+
+        left: 50%;
+        
+        }
+        
+            .height{
+        
+        min-height: 50vh;
+        
+        }
+        
+        .navbar-light .navbar-nav .nav-link {
+        
+            display: inline;
+            
+        }
+        
+        .navbar-nav{
+        
+            text-align: center;
+        }
+        
+        .nav-item{
+        
+            margin-bottom: 10px;
+        }
+        
+        .icon {
+          
+            margin-bottom: 15px;
+            }
+        
+            .contact-form{
+        
+                width: 580px;
+                padding: 51px;
+            }
+    
+}
+
+
+@media(max-width:820px){
+
+   
+
+
+}
+
+
+
+
+@media(max-width:767px){
+
+    
+        
+        .mobile-section{
+        
+            padding: 50px 0;
+        }
+        
+        .mobile-section img {
+        
+            width: 60%;
+        }
+        
+        .img-ato{
+        
+        text-align: center;
+        }
+        
+        .mobile-section span {
+        
+            margin: auto;
+            margin-bottom: 10px;
+        }
+        
+        .mobile-section p{
+            
+        margin-bottom: 20px;
+        }
+        
+        .details-section span {
+        
+            margin: auto;
+            margin-bottom: 15px;
+        }
+
+        .testimonials p{
+
+            text-align: center;
+        }
+
+        .client-description {
+
+            margin: auto;
+        }
+
+        .client-image{
+
+            width: 60px;
+            height: 60px;
+        }
+
+        .client-detail {
+
+            width: 200px;
+        }
+
+        .margin-btn{
+
+            margin-bottom: 30px;
+
+        }
+
+        .price-tables .pricing-all {
+
+            width: 370px;
+            margin: auto;
+        }
+
+        .hphone{
+
+            display: none;
+        }
+        
+        .only-mobile{
+        
+            display: inherit;
+        }
+
+        .only-mobile img{
+            width: 70%;
+            margin: auto;
+            margin-bottom: 20px;
+            margin-top: 30px;
+        }
+          .alin-center{
+        
+        text-align: center;
+        
+        margin: 30px 0;
+        
+        }
+
+        .contact-us {
+
+padding: 30px 0;
+
+padding-bottom: 420px;
+
+}
+        
+        
+
+  
+}
+
+@media(max-width: 575px){
+
+
+    .only-mobile img{
+        width: 40%;
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+
+  header h1{
+
+font-size: 29px;
+}
+
+  header p{
+
+font-size: 17px;
+}
+
+
+}
+
+@media(max-width:414px){
+
+
+    .only-mobile img{
+        width: 80%;
+       
+    }
+
+    .contact-form{
+    
+        width: 270px;
+    }
+
+}
+
+@media(max-width:412px){
+
+    .contact-form{
+    
+width: 290px;
+    }
+
+    .price-tables .pricing-all {
+
+width: 307px;
+
+}
+
+}
+
+
+@media(max-width:393px){
+
+    .price-tables .pricing-all {
+
+        width: 254px;
+        
+    }
+
+}
+
+
+
+
+@media(max-width:375px){
+
+    .price-tables .pricing-all {
+
+        width: 254px;
+        margin: auto;
+    }
+    
+    .contact-form{
+    
+        width: 270px;
+    }
+
+    
+}
+
+@media(max-width:360px){
+
+  
+
+}
+
+
+@media(max-width:325px){
+
+
+    .btn-features {
+
+margin-left: 0;
+
+margin-top: 20px;
+
+padding: 10px 25px;
+
+}
+
+.only-mobile img{
+
+    width: 60%;
+}
+
+.dowanload-now{
+
+    margin-top: 20px;
+}
+
+.view-now{
+
+    margin-right: 0;
+    margin-top: 10px;
+}
+
+
+
+
+}
+
+
+
